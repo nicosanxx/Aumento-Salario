@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\aumento_salario\bin\Debug\aumento_salario.exe.config
+C:\Users\nico\source\repos\aumento_salario\bin\Debug\aumento_salario.exe
+C:\Users\nico\source\repos\aumento_salario\bin\Debug\aumento_salario.pdb
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.Form1.resources
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.Properties.Resources.resources
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.exe
+C:\Users\nico\source\repos\aumento_salario\obj\Debug\aumento_salario.pdb
