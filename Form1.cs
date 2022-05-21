@@ -24,20 +24,23 @@ namespace aumento_salario
 
             decimal salario = Convert.ToDecimal(txt_salario.Text);
             decimal aumento = Convert.ToDecimal(txt_salario.Text);
+            decimal resultado;
 
-            if (aumento >= 5000)
+            if (salario >= 5000)
             {
 
                 aumento = salario * 10 / 100;
-                txt_aumento.Text = aumento.ToString();
+                resultado = salario + aumento;
+                txt_aumento.Text = resultado.ToString();
                 
             }
 
-            else if(aumento < 5000 && aumento>= 2000)
+            else if(salario < 5000 && salario >= 2000)
             {
 
                 aumento = salario * 20 / 100;
-                txt_aumento.Text = aumento.ToString();
+                resultado = salario + aumento;
+                txt_aumento.Text = resultado.ToString();
 
             }
 
@@ -45,7 +48,8 @@ namespace aumento_salario
             {
 
                 aumento = salario * 30 / 100;
-                txt_aumento.Text = aumento.ToString();
+                resultado = salario + aumento;
+                txt_aumento.Text = resultado.ToString();
  
             }
 
